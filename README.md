@@ -1,2 +1,2 @@
 # shadi
-shadi repo
+shadi repo for git commands demonstration
